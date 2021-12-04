@@ -10,7 +10,7 @@ int main()
     {
         max = b;
         if (c > max)
-        {2 3 1
+        {
             max = c;
             cout << "Max of three nos is" << c << endl;
         }
@@ -34,6 +34,6 @@ int main()
     }
     else
     {
-        cout << "Max of three nos is" << max << endl;
+        cout << "Max of three nos is " << max << endl;
     }
 }
